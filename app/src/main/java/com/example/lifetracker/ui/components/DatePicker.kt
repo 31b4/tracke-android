@@ -1,5 +1,6 @@
+//most elvileg a sajat branchbe vagyok
 package com.example.lifetracker.ui.components
-
+//tes7t
 import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.DatePicker
 import androidx.compose.material3.ExperimentalMaterial3Api
